@@ -1,6 +1,6 @@
 {
   "name": "@gitpullthis/testnpmpkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "No description for this boy",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,10 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/gitpullthis/testnpmpkg.git"
-    
   }
 }
